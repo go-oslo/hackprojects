@@ -5,3 +5,4 @@ If you have an idea for a project, simply create an [issue](https://github.com/g
 # Projects in Progress
 
 - [Urørt Downloader](https://github.com/oyvindsk/urort-downloader)
+- [Lifx protocol](https://github.com/dorkowscy/lyslix)
